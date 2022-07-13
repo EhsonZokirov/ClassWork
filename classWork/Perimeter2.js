@@ -1,4 +1,4 @@
-let a=2
+let a = 2
 let P
-P=4*a
+P = 4 * a
 console.log(P);
